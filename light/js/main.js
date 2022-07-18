@@ -16,7 +16,7 @@ jQuery(function($) {
 	portfolioItemClick();
 	owlCarouselPlugin();
 	floatingLabel();
-	scrollWindow();
+	// scrollWindow();
 	counter();
 	jarallaxPlugin();
 	contactForm();
